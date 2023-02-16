@@ -1,0 +1,8 @@
+{
+  "contest": 215,
+  "handle": "HollaDieWaldfee",
+  "risk": "2",
+  "title": "Attacker can cause loss to rToken holders and stakers by running BackingManager._manageTokens before rewards are claimed",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2023-02-reserve-mitigation-contest-findings/issues/22"
+}
