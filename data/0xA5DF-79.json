@@ -1,0 +1,8 @@
+{
+  "contest": 215,
+  "handle": "0xA5DF",
+  "risk": "2",
+  "title": "Attacker can temporary deplete available redemption/issuance by running issuance then redemption or vice versa",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2023-02-reserve-mitigation-contest-findings/issues/79"
+}
